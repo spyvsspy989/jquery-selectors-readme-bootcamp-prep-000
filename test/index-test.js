@@ -1,3 +1,4 @@
+<script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
 $('selector-goes-here')
 describe('Selectors', () => {
   it('paragraphSelector() should select all paragraphs', function() {
